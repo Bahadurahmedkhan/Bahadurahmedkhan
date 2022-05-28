@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BAHADUR AHMED KHAN</h1>
-<h3 align="center">Proficient: C++, Machine Learning, Artificial Intelligence, CSS, HTML, Content and Creative Writing, Canvas, Sketch. Knowledgeable: Python, Blogger, Android, Data Structure and Algorithms, Photoshop, MS Word, MS Excel, MS PowerPoint. Familiar: C, C-sharp, Java, Java Script, Tensor flow, Mat-lab, Aws, Flutter, Web and App Development, Blender, Azure.</h3>
+<h3 align="center">Proficient: C++, Machine Learning, Artificial Intelligence, CSS, HTML, Content and Creative Writing, Canvas. Knowledgeable: Python, Blogger, Android, Data Structure and Algorithms, Photoshop, MS Word, MS Excel, MS PowerPoint. Familiar: C++, Mat-lab, Aws, Flutter, Web and App Development, Blender, Azure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadurahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="bahadurahmedkhan" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **cap.bak10@gmail.com**
 
-- ⚡ Fun fact **I think I am pet animals lover.**
+- ⚡ Fun fact **I did not watch a single season on netflix.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
